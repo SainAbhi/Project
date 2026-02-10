@@ -1,3 +1,3 @@
 # Project
-SuperMarket Inventory Management System
-ravi
+SuperMarket Inventory Management System 
+Abhijeet Sain
